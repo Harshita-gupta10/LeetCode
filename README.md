@@ -31,6 +31,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/Harshita-gupta10/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/Harshita-gupta10/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harshita-gupta10/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3447-clear-digits](https://github.com/Harshita-gupta10/LeetCode/tree/master/3447-clear-digits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Harshita-gupta10/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Harshita-gupta10/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Harshita-gupta10/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [3447-clear-digits](https://github.com/Harshita-gupta10/LeetCode/tree/master/3447-clear-digits) |
 ## Tree
 |  |
 | ------- |
@@ -187,6 +189,7 @@
 | [0921-spiral-matrix-iii](https://github.com/Harshita-gupta10/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Harshita-gupta10/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Harshita-gupta10/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [3447-clear-digits](https://github.com/Harshita-gupta10/LeetCode/tree/master/3447-clear-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
