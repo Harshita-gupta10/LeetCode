@@ -9,10 +9,9 @@ public:
         {
             if(nums1[i][0] == nums2[j][0])
             {
+                // int tempAns[2] = {nums1[i][0], tempVal};
                 int tempVal = nums1[i][1] + nums2[j][1];
                 nums1[i][1] = tempVal;
-                int tempAns[2] = {nums1[i][0], tempVal};
-
                 ans.push_back(nums1[i]);
                 i++;
                 j++;
