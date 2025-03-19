@@ -24,6 +24,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/Harshita-gupta10/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Harshita-gupta10/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2727-number-of-senior-citizens](https://github.com/Harshita-gupta10/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Harshita-gupta10/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## String
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Harshita-gupta10/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Harshita-gupta10/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -203,6 +205,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Harshita-gupta10/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Harshita-gupta10/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Design
 |  |
 | ------- |
@@ -268,4 +271,9 @@
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Harshita-gupta10/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Harshita-gupta10/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Harshita-gupta10/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Queue
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Harshita-gupta10/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
