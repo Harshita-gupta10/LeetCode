@@ -9,6 +9,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Harshita-gupta10/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Harshita-gupta10/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harshita-gupta10/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/Harshita-gupta10/LeetCode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Harshita-gupta10/LeetCode/tree/master/0455-assign-cookies) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Harshita-gupta10/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0890-lemonade-change](https://github.com/Harshita-gupta10/LeetCode/tree/master/0890-lemonade-change) |
@@ -49,6 +50,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Harshita-gupta10/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Harshita-gupta10/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0264-ugly-number-ii](https://github.com/Harshita-gupta10/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/Harshita-gupta10/LeetCode/tree/master/0268-missing-number) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Harshita-gupta10/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Harshita-gupta10/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Harshita-gupta10/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -59,6 +61,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harshita-gupta10/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/Harshita-gupta10/LeetCode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Harshita-gupta10/LeetCode/tree/master/0455-assign-cookies) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Harshita-gupta10/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Harshita-gupta10/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -80,6 +83,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Harshita-gupta10/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/Harshita-gupta10/LeetCode/tree/master/0268-missing-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Harshita-gupta10/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Harshita-gupta10/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Harshita-gupta10/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -178,6 +182,7 @@
 | [0009-palindrome-number](https://github.com/Harshita-gupta10/LeetCode/tree/master/0009-palindrome-number) |
 | [0263-ugly-number](https://github.com/Harshita-gupta10/LeetCode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Harshita-gupta10/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/Harshita-gupta10/LeetCode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Harshita-gupta10/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Harshita-gupta10/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/Harshita-gupta10/LeetCode/tree/master/0650-2-keys-keyboard) |
@@ -205,6 +210,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Harshita-gupta10/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/Harshita-gupta10/LeetCode/tree/master/0268-missing-number) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Harshita-gupta10/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Design
 |  |
