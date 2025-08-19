@@ -13,6 +13,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Harshita-gupta10/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Harshita-gupta10/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/Harshita-gupta10/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Harshita-gupta10/LeetCode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harshita-gupta10/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Harshita-gupta10/LeetCode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Harshita-gupta10/LeetCode/tree/master/0455-assign-cookies) |
@@ -84,6 +85,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Harshita-gupta10/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Harshita-gupta10/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Harshita-gupta10/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/Harshita-gupta10/LeetCode/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/Harshita-gupta10/LeetCode/tree/master/0455-assign-cookies) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Harshita-gupta10/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0908-middle-of-the-linked-list](https://github.com/Harshita-gupta10/LeetCode/tree/master/0908-middle-of-the-linked-list) |
@@ -193,6 +195,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Harshita-gupta10/LeetCode/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/Harshita-gupta10/LeetCode/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/Harshita-gupta10/LeetCode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Harshita-gupta10/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Harshita-gupta10/LeetCode/tree/master/0268-missing-number) |
