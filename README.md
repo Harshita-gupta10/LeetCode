@@ -202,6 +202,7 @@
 | [0273-integer-to-english-words](https://github.com/Harshita-gupta10/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Harshita-gupta10/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/Harshita-gupta10/LeetCode/tree/master/0650-2-keys-keyboard) |
+| [3830-find-closest-person](https://github.com/Harshita-gupta10/LeetCode/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
 | ------- |
