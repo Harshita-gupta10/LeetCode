@@ -32,6 +32,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Harshita-gupta10/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2727-number-of-senior-citizens](https://github.com/Harshita-gupta10/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Harshita-gupta10/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Harshita-gupta10/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 ## String
 |  |
 | ------- |
