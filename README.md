@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harshita-gupta10/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Harshita-gupta10/LeetCode/tree/master/0027-remove-element) |
 | [0040-combination-sum-ii](https://github.com/Harshita-gupta10/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0066-plus-one](https://github.com/Harshita-gupta10/LeetCode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Harshita-gupta10/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Harshita-gupta10/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Harshita-gupta10/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -196,6 +197,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Harshita-gupta10/LeetCode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Harshita-gupta10/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Harshita-gupta10/LeetCode/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/Harshita-gupta10/LeetCode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Harshita-gupta10/LeetCode/tree/master/0264-ugly-number-ii) |
